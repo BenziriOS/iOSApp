@@ -1,0 +1,16 @@
+PODS:
+  - ValidationTextField (1.0.4)
+
+DEPENDENCIES:
+  - ValidationTextField
+
+SPEC REPOS:
+  trunk:
+    - ValidationTextField
+
+SPEC CHECKSUMS:
+  ValidationTextField: 91bc04170ba4b4358912c372e12d7af4c9143ad5
+
+PODFILE CHECKSUM: 5671b93727eabf6e0aca15d5d066dc9e1292d532
+
+COCOAPODS: 1.12.0
