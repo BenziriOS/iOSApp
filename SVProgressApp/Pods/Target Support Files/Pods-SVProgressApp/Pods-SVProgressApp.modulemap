@@ -1,0 +1,6 @@
+framework module Pods_SVProgressApp {
+  umbrella header "Pods-SVProgressApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
