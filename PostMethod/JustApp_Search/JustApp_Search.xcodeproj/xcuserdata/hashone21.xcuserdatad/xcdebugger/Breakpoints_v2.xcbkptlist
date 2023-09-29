@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "60862728-E855-4B85-B19C-A3A442DF81D0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17C2CBF8-D163-49DA-B4F4-B87C62C12345"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustApp_Search/Controllers/SearchVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "searchLoveList(name:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17C2CBF8-D163-49DA-B4F4-B87C62C12345 - f6665df7276d3744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JustApp_Search.SearchVC.searchLoveList(name: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;JustApp_Search.Search&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JustApp_Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hashone21/Benzir/Demo/Swift/JustApp_Search/JustApp_Search/Controllers/SearchVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1884">
+               </Location>
+               <Location
+                  uuid = "17C2CBF8-D163-49DA-B4F4-B87C62C12345 - d88c39a283ca1efc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JustApp_Search.SearchVC.searchLoveList(completion: (Swift.Result&lt;Swift.Array&lt;JustApp_Search.Search&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JustApp_Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hashone21/Benzir/Demo/Swift/JustApp_Search/JustApp_Search/Controllers/SearchVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1884">
+               </Location>
+               <Location
+                  uuid = "17C2CBF8-D163-49DA-B4F4-B87C62C12345 - ea28ee644d25f37a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JustApp_Search.SearchVC.searchLoveList(name: Swift.String, complition: (Swift.Result&lt;JustApp_Search.Search, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JustApp_Search"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hashone21/Benzir/Demo/Swift/JustApp_Search/JustApp_Search/Controllers/SearchVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "1872">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
